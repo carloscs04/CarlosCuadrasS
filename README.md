@@ -8,7 +8,7 @@
 
 
 ## My Latest Project  
-🔗 [FrED-Factory]([https://github.com/carloscs04/FrED-Factory](https://github.com/carloscs04/FrED-Factory))  
+🔗 [FrED-Factory](https://github.com/carloscs04/FrED-Factory](https://github.com/carloscs04/FrED-Factory)  
 A short description of what it does.
 
 <!---
