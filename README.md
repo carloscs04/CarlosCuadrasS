@@ -6,7 +6,12 @@
 ⚡ Fun fact: I enjoy playing soccer and organizing my projects efficiently, whether in GitHub repositories or my personal workspace.  
 
 
+## My Latest Project  
+🔗 [CarlosCuadrasS](https://github.com/carloscs04/CarlosCuadrasS)  
+A short description of what it does.
+
 <!---
 carloscs04/CarlosCuadrasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
