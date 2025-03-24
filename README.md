@@ -9,7 +9,7 @@
 
 ## My Latest Project  
 🔗 [FrED-Factory](https://github.com/carloscs04/FrED-Factory)  
-A short description of what it does.
+This project focuses on designing an automation line to create a device that saves recyclable filament!
 
 <!---
 carloscs04/CarlosCuadrasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
